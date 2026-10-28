@@ -1,2 +1,5 @@
 Downloaded Oracle VirtualBox, configured Windows 2022 server on a VM.
+Downloaded and enabled Active Directory Domain Services (AD DS)
+Added root domain named lab.local
+Troubleshot error where it prompted that my browser was out of date for Entra to open
 Connected my Azure AD to the server
